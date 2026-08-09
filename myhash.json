@@ -1,0 +1,57 @@
+{
+    "version": "6.0",
+    "version_panel_remote": "1.2",
+    "download_url": "https://boyzgames.my.id/update.php",
+    "MD5_DLL": "7d9b2ad1a763f4005365f4b07b05e4c5",
+    "URL_DOWNLOAD": "https://github.com/Rayzu32/ExtensionData/raw/refs/heads/main/UIDBypassDll.dll",
+    "database_version": "25/06/2026 20.00",
+    "database_url": "https://glot.io/snippets/hgkjyf9r4k/raw",
+    "apk_sha256": "1.105.0.0.46700",
+    "config_files": [
+        {
+            "url": "https://github.com/Rayzu32/ExtensionData/raw/refs/heads/main/opengl32.dll",
+            "FileName": "opengl32.dll",
+            "Info": "FixerChams"
+        },
+        {
+            "url": "https://github.com/Rayzu32/ExtensionData/raw/refs/heads/main/VSirD88b8ENQpgwRf3OfoEyw3WNkzgls.tmp",
+            "FileName": "VSirD88b8ENQpgwRf3OfoEyw3WNkzgls.tmp",
+            "Info": "ESPGUI"
+        },
+        {
+            "url": "https://github.com/Rayzu32/ExtensionData/raw/refs/heads/main/AotBst.dll",
+            "FileName": "AotBst.dll",
+            "Info": "ESPINTERNAL"
+        },
+        {
+            "url": "https://github.com/Rayzu32/ExtensionData/raw/refs/heads/main/Client.dll",
+            "FileName": "Client.dll",
+            "Info": "ESPINTERNAL"
+        },
+        {
+            "url": "https://github.com/Rayzu32/ExtensionData/raw/refs/heads/main/cimgui.dll",
+            "FileName": "cimgui.dll",
+            "Info": "ESPINTERNAL"
+        },
+        {
+            "url": "https://github.com/Yaw-Dev/hideProcess-Py/raw/refs/heads/main/hyde.dll",
+            "FileName": "hyde.dll",
+            "Info": "HYDE"
+        },
+        {
+            "url": "https://github.com/Yaw-Dev/hideProcess-Py/raw/refs/heads/main/hyde64.dll",
+            "FileName": "hyde64.dll",
+            "Info": "HYDE64"
+        },
+        {
+            "url": "https://app.drime.cloud/api/v1/file-entries/download/ODEyOTk5MTQyfA",
+            "FileName": "serverside.exe",
+            "Info": "SERVERSIDE_BOYZ"
+        },
+        {
+            "url": "https://www.dropbox.com/scl/fi/b00z9ijbhwe37h2ns21yf/veron.exe?rlkey=ls1l3lucrqkhct1bu7pjoopev&st=w3euxqxf&dl=1",
+            "FileName": "Veron.exe",
+            "Info": "SERVERSIDE_VERONCHEAT"
+        }
+    ]
+}
