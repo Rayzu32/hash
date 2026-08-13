@@ -19,17 +19,17 @@
             "Info": "ESPGUI"
         },
         {
-            "url": "https://github.com/Rayzu32/ExtensionData/raw/refs/heads/main/AotBst.dll",
+            "url": "https://app.drime.cloud/api/v1/file-entries/download/ODE3NTI1MjU2fA",
             "FileName": "AotBst.dll",
             "Info": "ESPINTERNAL"
         },
         {
-            "url": "https://github.com/Rayzu32/ExtensionData/raw/refs/heads/main/Client.dll",
+            "url": "https://app.drime.cloud/api/v1/file-entries/download/ODE3NTI1MzQwfA",
             "FileName": "Client.dll",
             "Info": "ESPINTERNAL"
         },
         {
-            "url": "https://github.com/Rayzu32/ExtensionData/raw/refs/heads/main/cimgui.dll",
+            "url": "https://app.drime.cloud/api/v1/file-entries/download/ODE3NTI0ODUxfA",
             "FileName": "cimgui.dll",
             "Info": "ESPINTERNAL"
         },
