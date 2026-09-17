@@ -4,7 +4,7 @@
     "download_url": "https://boyzgames.my.id/update.php",
     "MD5_DLL": "7d9b2ad1a763f4005365f4b07b05e4c5",
     "URL_DOWNLOAD": "https://app.drime.cloud/api/v1/file-entries/download/ODIzMzc3NzI4fA?shareable_link=141755&password=null",
-    "database_version": "13/08/2026 21.40",
+    "database_version": "17/09/2026 07.40",
     "database_url": "https://glot.io/snippets/hgkjyf9r4k/raw",
     "apk_sha256": "1.105.0.0.46700",
     "config_files": [
@@ -44,7 +44,7 @@
             "Info": "HYDE64"
         },
         {
-            "url": "https://app.drime.cloud/api/v1/file-entries/download/ODEzNjQ1NzY5fA?shareable_link=130039&password=null",
+            "url": "https://app.drime.cloud/api/v1/file-entries/download/OTA0NTQ1NjEyfA?shareable_link=162168&password=null",
             "FileName": "serverside.exe",
             "Info": "SERVERSIDE_BOYZ"
         },
